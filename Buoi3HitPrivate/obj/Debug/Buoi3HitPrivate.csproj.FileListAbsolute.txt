@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\Buoi3HitPrivate\Buoi3HitPrivate\obj\Debug\Buoi3HitPrivate.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Buoi3HitPrivate\Buoi3HitPrivate\obj\Debug\Buoi3HitPrivate.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Buoi3HitPrivate\Buoi3HitPrivate\bin\Debug\Buoi3HitPrivate.exe.config
+C:\Users\ADMIN\source\repos\Buoi3HitPrivate\Buoi3HitPrivate\bin\Debug\Buoi3HitPrivate.exe
+C:\Users\ADMIN\source\repos\Buoi3HitPrivate\Buoi3HitPrivate\bin\Debug\Buoi3HitPrivate.pdb
+C:\Users\ADMIN\source\repos\Buoi3HitPrivate\Buoi3HitPrivate\obj\Debug\Buoi3HitPrivate.exe
+C:\Users\ADMIN\source\repos\Buoi3HitPrivate\Buoi3HitPrivate\obj\Debug\Buoi3HitPrivate.pdb
+C:\Users\ADMIN\source\repos\Buoi3HitPrivate\Buoi3HitPrivate\obj\Debug\Buoi3HitPrivate.exe.config
